@@ -1,5 +1,5 @@
 ---
-title: 'Nothing is wrong. Everything is perfect'
+title: 'Nothing Nothing is wrong. Everything is perfect'
 status: 'published'
 author:
   name: 'Andre Vitorio'
