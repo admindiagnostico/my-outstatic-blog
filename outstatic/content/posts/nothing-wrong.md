@@ -1,5 +1,5 @@
 ---
-title: "NNothing is wrong. Everything is perfect"
+title: "NNothing is wrong.vscode Everything is perfect"
 status: "published"
 author:
   name: "Andre Vitorio"

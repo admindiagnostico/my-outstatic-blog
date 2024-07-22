@@ -1,5 +1,5 @@
 ---
-title: "LEearn how to create your blog with Outstatic"
+title: "LEearn how to create your vscode blog with Outstatic"
 status: "published"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."
 coverImage: "/images/jupiter-spaceship.png"
