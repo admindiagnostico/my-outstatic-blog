@@ -1,6 +1,6 @@
 {
-  "commit": "d595858843dbb35c5eeb475b3777b40557023373",
-  "generated": "2024-07-22T11:24:53.364Z",
+  "commit": "84d62ff45621313a9e92b53bdc80f7d6c87110ca",
+  "generated": "2024-07-22T11:25:23.347Z",
   "metadata": [
     {
       "__outstatic": {
@@ -203,26 +203,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f3938243ae5b6a5b7097c64fd823856624b5a617",
-        "hash": "3871735154",
-        "path": "outstatic/content/posts/neoplastic-hematopathology.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/captura-congreso-c5ND.jpeg",
-      "description": "",
-      "publishedAt": "2024-07-22T09:52:55.909Z",
-      "slug": "neoplastic-hematopathology",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Neoplastic Hematopathology"
-    },
-    {
-      "__outstatic": {
         "commit": "6d178cececfe5496314cee993704c8dfcf5d44a8",
         "hash": "4264948730",
         "path": "outstatic/content/posts/certificacion-de-la-calidad-unit-iso9001-2015.md"
@@ -391,6 +371,25 @@
       "status": "published",
       "tags": "",
       "title": "Jornadas de actualización en cáncer de mama - Centro Médico de Salto"
+    },
+    {
+      "__outstatic": {
+        "commit": "84d62ff45621313a9e92b53bdc80f7d6c87110ca",
+        "hash": "3539078821",
+        "path": "outstatic/content/posts/neoplastic-hematopathology.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/captura-congreso-c5ND.jpeg",
+      "description": "",
+      "publishedAt": "2023-01-25T09:52:55.000Z",
+      "slug": "neoplastic-hematopathology",
+      "status": "published",
+      "tags": "",
+      "title": "Neoplastic Hematopathology"
     }
   ]
 }
