@@ -1,6 +1,6 @@
 {
-  "commit": "c72c154a8d231187017724c68d61144e75e03f14",
-  "generated": "2024-07-22T10:17:18.535Z",
+  "commit": "459471f7e30ba818806a5a3c548d6b53f226bf27",
+  "generated": "2024-07-22T10:35:15.446Z",
   "metadata": [
     {
       "__outstatic": {
@@ -39,24 +39,6 @@
       "status": "published",
       "tags": "",
       "title": "Éxito en el tratamiento del cáncer de piel con la técnica de Mohs"
-    },
-    {
-      "__outstatic": {
-        "commit": "889dfbdf36518c7b7a7dc5c98dd6b0a16684ef38",
-        "hash": "2990253422",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my vscode blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Novedades"
     },
     {
       "__outstatic": {
@@ -397,6 +379,24 @@
       "tags": [
       ],
       "title": "Automatización de IHQ & SISH con BenchMark GX de ROCHE"
+    },
+    {
+      "__outstatic": {
+        "commit": "459471f7e30ba818806a5a3c548d6b53f226bf27",
+        "hash": "2950334495",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Diagnostico SRL",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Novedades Diagnostico SRL",
+      "publishedAt": "2022-07-22T05:35:07.000Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Novedades"
     }
   ]
 }

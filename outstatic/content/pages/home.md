@@ -2,12 +2,12 @@
 title: 'Novedades'
 status: 'published'
 author:
-  name: 'Andre Vitorio'
+  name: 'Diagnostico SRL'
   picture: ''
 slug: 'home'
-description: 'This is my vscode blog.'
+description: 'Novedades Diagnostico SRL'
 coverImage: ''
-publishedAt: '2022-03-17T05:35:07.322Z'
+publishedAt: '2022-07-22T05:35:07.000Z'
 ---
 
  
