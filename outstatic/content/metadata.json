@@ -1,6 +1,6 @@
 {
-  "commit": "d409e0e79aa6c31de0f2506d0d38c0ebe31f1da5",
-  "generated": "2024-07-22T10:11:52.724Z",
+  "commit": "40fb4f060dfafa99f875477b7e095c71db268f50",
+  "generated": "2024-07-22T10:13:06.883Z",
   "metadata": [
     {
       "__outstatic": {
@@ -297,6 +297,26 @@
       "tags": [
       ],
       "title": "Jornadas de actualización en cáncer de mama - Centro Médico de Salto"
+    },
+    {
+      "__outstatic": {
+        "commit": "40fb4f060dfafa99f875477b7e095c71db268f50",
+        "hash": "1521523239",
+        "path": "outstatic/content/posts/distribucion-de-la-frecuencia-de-los-distintos-tipos-de-linfomas-en-uruguay.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "Artículo sobre la frecuencia de tipos de linfomas en Uruguay publicado en la Revista de Oncología Médica.",
+      "publishedAt": "2024-07-22T09:54:08.091Z",
+      "slug": "distribucion-de-la-frecuencia-de-los-distintos-tipos-de-linfomas-en-uruguay",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Distribución de la frecuencia de los distintos tipos de linfomas en Uruguay"
     }
   ]
 }
