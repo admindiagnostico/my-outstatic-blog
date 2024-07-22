@@ -1,6 +1,6 @@
 {
-  "commit": "14af718d4abfdcd45f7dbe43377403114ee4d017",
-  "generated": "Mon, 22 Jul 2024 09:41:37 GMT",
+  "commit": "748bcde9ca143e80ed129c5858263fd46e6f9134",
+  "generated": "2024-07-22T09:42:24.708Z",
   "metadata": [
     {
       "__outstatic": {
@@ -50,24 +50,6 @@
         }
       ],
       "title": "LEearn how to create your vscode blog with Outstatic"
-    },
-    {
-      "__outstatic": {
-        "commit": "b22b0f4f3d38a659cbab9b89ac2b7394f2446de4",
-        "hash": "425893791",
-        "path": "outstatic/content/projects/flycream-travel.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/flycream-travel.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "flycream-travel",
-      "status": "published",
-      "title": "Flycream Travel"
     },
     {
       "__outstatic": {
