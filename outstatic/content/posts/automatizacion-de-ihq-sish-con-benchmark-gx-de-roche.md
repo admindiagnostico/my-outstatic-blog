@@ -1,14 +1,14 @@
 ---
 author:
-  name: ''
-  picture: 'https://avatars.githubusercontent.com/u/176062416?v=4'
-coverImage: ''
-title: 'Automatización de IHQ & SISH con BenchMark GX de ROCHE'
-status: 'published'
-slug: 'automatizacion-de-ihq-sish-con-benchmark-gx-de-roche'
-description: 'Diagnóstico SRL incorpora nueva tecnología para optimizar protocolos de Inmunohistoquímica y técnicas de hibridización in situ.'
-tags: ''
-publishedAt: '2024-07-22T09:58:11.345Z'
+  name: ""
+  picture: "https://avatars.githubusercontent.com/u/176062416?v=4"
+coverImage: ""
+title: "Automatización de IHQ & SISH con BenchMark GX de ROCHE"
+status: "published"
+slug: "automatizacion-de-ihq-sish-con-benchmark-gx-de-roche"
+description: "Diagnóstico SRL incorpora nueva tecnología para optimizar protocolos de Inmunohistoquímica y técnicas de hibridización in situ."
+tags: ""
+publishedAt: "2019-06-22T09:58:11.345Z"
 ---
 
 Como parte de nuestra política de mejora continua hemos incorporado un equipo BenchMarck GX de ROCHE.
