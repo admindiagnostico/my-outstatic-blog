@@ -1,6 +1,6 @@
 {
-  "commit": "748bcde9ca143e80ed129c5858263fd46e6f9134",
-  "generated": "2024-07-22T09:42:31.493Z",
+  "commit": "5a68721cdde4e8e15c8306a8a647048488a0308d",
+  "generated": "2024-07-22T09:43:09.019Z",
   "metadata": [
     {
       "__outstatic": {
@@ -120,6 +120,26 @@
       "status": "published",
       "tags": "",
       "title": "NNothing is wrong.vscode Everything is perfect"
+    },
+    {
+      "__outstatic": {
+        "commit": "5a68721cdde4e8e15c8306a8a647048488a0308d",
+        "hash": "1778224192",
+        "path": "outstatic/content/posts/desde-vercel.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-22T09:24:55.954Z",
+      "slug": "desde-vercel",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "desde vercel"
     }
   ]
 }
