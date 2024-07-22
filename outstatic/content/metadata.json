@@ -1,6 +1,6 @@
 {
-  "commit": "36574f11576f88e84c7b6cd2c68c4513bef56b13",
-  "generated": "2024-07-22T10:09:49.361Z",
+  "commit": "4f6059f0c553a2deb8159c23c0434ca1567c6169",
+  "generated": "2024-07-22T10:10:44.080Z",
   "metadata": [
     {
       "__outstatic": {
@@ -237,6 +237,26 @@
       "tags": [
       ],
       "title": "Participación en el 8vo Congreso Uruguayo de Anatomía Patológica"
+    },
+    {
+      "__outstatic": {
+        "commit": "4f6059f0c553a2deb8159c23c0434ca1567c6169",
+        "hash": "1246652190",
+        "path": "outstatic/content/posts/incorporamos-nuevas-determinaciones-moleculares.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "Diagnóstico SRL incorpora el sistema Idylla™ para pruebas moleculares automatizadas y rápidas en oncología.",
+      "publishedAt": "2024-07-22T09:52:04.130Z",
+      "slug": "incorporamos-nuevas-determinaciones-moleculares",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Incorporamos nuevas determinaciones moleculares"
     }
   ]
 }
