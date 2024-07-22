@@ -1,6 +1,6 @@
 {
-  "commit": "cbf73658df0ae1d5feb5fcd8e4e51f82794978f8",
-  "generated": "2024-07-22T11:11:46.887Z",
+  "commit": "b20d138bf9e499d57688a521e43757071e8c96de",
+  "generated": "2024-07-22T11:12:42.193Z",
   "metadata": [
     {
       "__outstatic": {
@@ -395,24 +395,6 @@
       "status": "published",
       "tags": "",
       "title": "Publicaciones cientificas"
-    },
-    {
-      "__outstatic": {
-        "commit": "cbf73658df0ae1d5feb5fcd8e4e51f82794978f8",
-        "hash": "3400929435",
-        "path": "outstatic/content/novedades/1era-nov.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "novedades",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-07-22T10:53:28.800Z",
-      "slug": "1era-nov",
-      "status": "published",
-      "title": "1era nov"
     }
   ]
 }
