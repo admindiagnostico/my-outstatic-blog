@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import Link from "next/link";
 
 const Header = () => {
   return (
@@ -11,7 +11,7 @@ const Header = () => {
         </li>
         <li>
           <Link href="/#posts" className="hover:underline">
-            Posts
+            Novedades
           </Link>
         </li>
         <li>
@@ -21,7 +21,7 @@ const Header = () => {
         </li>
       </ul>
     </nav>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

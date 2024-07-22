@@ -1,8 +1,8 @@
-import Footer from './Footer'
+import Footer from "./Footer";
 
 type Props = {
-  children: React.ReactNode
-}
+  children: React.ReactNode;
+};
 
 const Layout = ({ children }: Props) => {
   return (
@@ -10,9 +10,9 @@ const Layout = ({ children }: Props) => {
       <div className="min-h-screen">
         <main>{children}</main>
       </div>
-      <Footer />
+      {/* <Footer /> */}
     </>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;
