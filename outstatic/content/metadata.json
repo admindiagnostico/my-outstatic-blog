@@ -1,25 +1,7 @@
 {
-  "commit": "4738718b216d9e9bd7a91302912f6ddea32ae491",
-  "generated": "2024-07-22T09:52:22.825Z",
+  "commit": "3e20594ae093c3c2b25c3b86ca5bcdc03b4f2359",
+  "generated": "2024-07-22T09:54:55.772Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "1b0dfb583705c05f8f79f4d5abbebf684bc77452",
-        "hash": "3708122734",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my vscode blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
     {
       "__outstatic": {
         "commit": "addd26be4f7e4cebbbbdfc41a637ea759d86a902",
@@ -78,6 +60,24 @@
       "tags": [
       ],
       "title": "The 20th annual Tucson Symposium"
+    },
+    {
+      "__outstatic": {
+        "commit": "3e20594ae093c3c2b25c3b86ca5bcdc03b4f2359",
+        "hash": "2990253422",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my vscode blog.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Novedades"
     }
   ]
 }
