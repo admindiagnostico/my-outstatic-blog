@@ -8,7 +8,7 @@ status: 'published'
 slug: 'participacion-en-eventos-cientificos'
 description: 'Lista de participaciones.'
 tags: ''
-publishedAt: '2024-07-22T09:47:42.626Z'
+publishedAt: '2017-07-15T09:47:42.000Z'
 ---
 
 \

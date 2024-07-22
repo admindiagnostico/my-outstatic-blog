@@ -1,6 +1,6 @@
 {
-  "commit": "fcdb60e840c53e2bf3ede4248a16c1293618e4ab",
-  "generated": "2024-07-22T11:27:15.756Z",
+  "commit": "8ea20bb4e33e5b93c6c967cd1f72449b9db916c5",
+  "generated": "2024-07-22T11:27:37.036Z",
   "metadata": [
     {
       "__outstatic": {
@@ -120,26 +120,6 @@
       "tags": [
       ],
       "title": "Participación en Programa de Control de Calidad"
-    },
-    {
-      "__outstatic": {
-        "commit": "a83cb1f2e56c259763951fd1bc152f05305d63f0",
-        "hash": "1059010306",
-        "path": "outstatic/content/posts/participacion-en-eventos-cientificos.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "Lista de participaciones.",
-      "publishedAt": "2024-07-22T09:47:42.626Z",
-      "slug": "participacion-en-eventos-cientificos",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Participación en eventos científicos"
     },
     {
       "__outstatic": {
@@ -387,6 +367,25 @@
       "status": "published",
       "tags": "",
       "title": "Sociedad Latinoamericana de Hematopatología"
+    },
+    {
+      "__outstatic": {
+        "commit": "8ea20bb4e33e5b93c6c967cd1f72449b9db916c5",
+        "hash": "4065128436",
+        "path": "outstatic/content/posts/participacion-en-eventos-cientificos.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "Lista de participaciones.",
+      "publishedAt": "2017-07-15T09:47:42.000Z",
+      "slug": "participacion-en-eventos-cientificos",
+      "status": "published",
+      "tags": "",
+      "title": "Participación en eventos científicos"
     }
   ]
 }
