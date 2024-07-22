@@ -1,6 +1,6 @@
 {
-  "commit": "4a471e6b991fa9539c136d8c52490e22d0f5c03e",
-  "generated": "2024-07-22T10:05:35.007Z",
+  "commit": "a83cb1f2e56c259763951fd1bc152f05305d63f0",
+  "generated": "2024-07-22T10:06:47.028Z",
   "metadata": [
     {
       "__outstatic": {
@@ -177,6 +177,26 @@
       "tags": [
       ],
       "title": "Participación en Programa de Control de Calidad"
+    },
+    {
+      "__outstatic": {
+        "commit": "a83cb1f2e56c259763951fd1bc152f05305d63f0",
+        "hash": "1059010306",
+        "path": "outstatic/content/posts/participacion-en-eventos-cientificos.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "Lista de participaciones.",
+      "publishedAt": "2024-07-22T09:47:42.626Z",
+      "slug": "participacion-en-eventos-cientificos",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Participación en eventos científicos"
     }
   ]
 }
