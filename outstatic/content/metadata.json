@@ -1,6 +1,6 @@
 {
-  "commit": "4715bb40eded013f8548fa1308efee52875eae02",
-  "generated": "2024-07-22T11:22:05.895Z",
+  "commit": "aa852226f2583abd20ea10a63c1e16492591bd4e",
+  "generated": "2024-07-22T11:23:13.197Z",
   "metadata": [
     {
       "__outstatic": {
@@ -283,26 +283,6 @@
     },
     {
       "__outstatic": {
-        "commit": "c72c154a8d231187017724c68d61144e75e03f14",
-        "hash": "3222433635",
-        "path": "outstatic/content/posts/automatizacion-de-ihq-sish-con-benchmark-gx-de-roche.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "Diagnóstico SRL incorpora nueva tecnología para optimizar protocolos de Inmunohistoquímica y técnicas de hibridización in situ.",
-      "publishedAt": "2024-07-22T09:58:11.345Z",
-      "slug": "automatizacion-de-ihq-sish-con-benchmark-gx-de-roche",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Automatización de IHQ & SISH con BenchMark GX de ROCHE"
-    },
-    {
-      "__outstatic": {
         "commit": "459471f7e30ba818806a5a3c548d6b53f226bf27",
         "hash": "2950334495",
         "path": "outstatic/content/pages/home.md"
@@ -394,6 +374,25 @@
       "status": "published",
       "tags": "",
       "title": "Éxito en el tratamiento del cáncer de piel con la técnica de Mohs"
+    },
+    {
+      "__outstatic": {
+        "commit": "aa852226f2583abd20ea10a63c1e16492591bd4e",
+        "hash": "1075889581",
+        "path": "outstatic/content/posts/automatizacion-de-ihq-sish-con-benchmark-gx-de-roche.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "Diagnóstico SRL incorpora nueva tecnología para optimizar protocolos de Inmunohistoquímica y técnicas de hibridización in situ.",
+      "publishedAt": "2019-11-06T09:58:11.000Z",
+      "slug": "automatizacion-de-ihq-sish-con-benchmark-gx-de-roche",
+      "status": "published",
+      "tags": "",
+      "title": "Automatización de IHQ & SISH con BenchMark GX de ROCHE"
     }
   ]
 }
