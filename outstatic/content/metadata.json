@@ -1,6 +1,6 @@
 {
-  "commit": "cedd89529c6dcccc86c7bfb50513bfcf5ee0526c",
-  "generated": "Mon, 22 Jul 2024 09:44:33 GMT",
+  "commit": "beed68979f22aac5b5389343f6b7be7c178abf2b",
+  "generated": "2024-07-22T09:47:10.712Z",
   "metadata": [
     {
       "__outstatic": {
@@ -38,6 +38,26 @@
       "status": "published",
       "tags": "",
       "title": "desde vercel"
+    },
+    {
+      "__outstatic": {
+        "commit": "beed68979f22aac5b5389343f6b7be7c178abf2b",
+        "hash": "3788935576",
+        "path": "outstatic/content/posts/otro-mas-que-hago-en-vercel.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-22T09:28:52.689Z",
+      "slug": "otro-mas-que-hago-en-vercel",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "otro mas que hago en vercel"
     }
   ]
 }
