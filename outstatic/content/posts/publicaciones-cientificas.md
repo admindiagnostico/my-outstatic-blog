@@ -2,7 +2,7 @@
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/176062416?v=4'
-coverImage: ''
+coverImage: '/images/cover_librerias-g4ND.jpg'
 title: 'Publicaciones cientificas'
 status: 'published'
 slug: 'publicaciones-cientificas'

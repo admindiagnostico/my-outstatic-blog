@@ -1,6 +1,6 @@
 {
-  "commit": "7e9fe3b5224783b10f9e607dd12687eb4896f364",
-  "generated": "2024-07-22T10:59:01.758Z",
+  "commit": "3f9554da5287a6166acdab2f231441e399edd514",
+  "generated": "2024-07-22T11:02:13.904Z",
   "metadata": [
     {
       "__outstatic": {
@@ -99,26 +99,6 @@
       "tags": [
       ],
       "title": "USCAP 2024"
-    },
-    {
-      "__outstatic": {
-        "commit": "2fa25d8140190719c536a99fa57fa197f332d734",
-        "hash": "1233592106",
-        "path": "outstatic/content/posts/publicaciones-cientificas.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "Acceso a la biblioteca de publicaciones científicas de interés.",
-      "publishedAt": "2024-07-22T09:43:53.538Z",
-      "slug": "publicaciones-cientificas",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Publicaciones cientificas"
     },
     {
       "__outstatic": {
@@ -396,6 +376,25 @@
       "status": "published",
       "tags": "",
       "title": "Conferencias de invierno 2018."
+    },
+    {
+      "__outstatic": {
+        "commit": "3f9554da5287a6166acdab2f231441e399edd514",
+        "hash": "943536164",
+        "path": "outstatic/content/posts/publicaciones-cientificas.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/cover_librerias-g4ND.jpg",
+      "description": "Acceso a la biblioteca de publicaciones científicas de interés.",
+      "publishedAt": "2024-07-22T09:43:53.538Z",
+      "slug": "publicaciones-cientificas",
+      "status": "published",
+      "tags": "",
+      "title": "Publicaciones cientificas"
     }
   ]
 }
