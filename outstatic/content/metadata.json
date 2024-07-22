@@ -1,29 +1,10 @@
 {
-  "commit": "3e20594ae093c3c2b25c3b86ca5bcdc03b4f2359",
-  "generated": "2024-07-22T09:54:55.772Z",
+  "commit": "249b6eaaa3eeb8f4536c5190ce01c7ebe883eb83",
+  "generated": "Mon, 22 Jul 2024 09:56:32 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "addd26be4f7e4cebbbbdfc41a637ea759d86a902",
-        "hash": "1778224192",
-        "path": "outstatic/content/posts/desde-vercel.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-07-22T09:24:55.954Z",
-      "slug": "desde-vercel",
-      "status": "published",
-      "tags": "",
-      "title": "desde vercel"
-    },
-    {
-      "__outstatic": {
-        "commit": "f585ff1a8d19c90eff73e09600ab16c0f03af02d",
+        "commit": "5bffbf5eaeeb7c81951b79d0fd27dc9d24e8df04",
         "hash": "2783003609",
         "path": "outstatic/content/posts/exito-en-el-tratamiento-del-cancer-de-piel-con-la-tecnica-de-mohs.md"
       },
@@ -37,13 +18,12 @@
       "publishedAt": "2024-07-22T09:31:52.605Z",
       "slug": "exito-en-el-tratamiento-del-cancer-de-piel-con-la-tecnica-de-mohs",
       "status": "published",
-      "tags": [
-      ],
+      "tags": "",
       "title": "Éxito en el tratamiento del cáncer de piel con la técnica de Mohs"
     },
     {
       "__outstatic": {
-        "commit": "4738718b216d9e9bd7a91302912f6ddea32ae491",
+        "commit": "c4bb76aae79ab3fcb9260f63d4b445378b7ab894",
         "hash": "2392462215",
         "path": "outstatic/content/posts/the-20th-annual-tucson-symposium.md"
       },
@@ -57,13 +37,12 @@
       "publishedAt": "2024-07-22T09:33:18.588Z",
       "slug": "the-20th-annual-tucson-symposium",
       "status": "published",
-      "tags": [
-      ],
+      "tags": "",
       "title": "The 20th annual Tucson Symposium"
     },
     {
       "__outstatic": {
-        "commit": "3e20594ae093c3c2b25c3b86ca5bcdc03b4f2359",
+        "commit": "889dfbdf36518c7b7a7dc5c98dd6b0a16684ef38",
         "hash": "2990253422",
         "path": "outstatic/content/pages/home.md"
       },
