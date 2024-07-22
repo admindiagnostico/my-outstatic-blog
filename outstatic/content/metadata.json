@@ -1,7 +1,27 @@
 {
-  "commit": "5a68721cdde4e8e15c8306a8a647048488a0308d",
-  "generated": "2024-07-22T09:43:09.019Z",
+  "commit": "d662f151ae1dbf4d18a6e8d55b1cbc1b2c80892f",
+  "generated": "Mon, 22 Jul 2024 09:43:27 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "addd26be4f7e4cebbbbdfc41a637ea759d86a902",
+        "hash": "1778224192",
+        "path": "outstatic/content/posts/desde-vercel.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-22T09:24:55.954Z",
+      "slug": "desde-vercel",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "desde vercel"
+    },
     {
       "__outstatic": {
         "commit": "1b0dfb583705c05f8f79f4d5abbebf684bc77452",
@@ -53,24 +73,6 @@
     },
     {
       "__outstatic": {
-        "commit": "b22b0f4f3d38a659cbab9b89ac2b7394f2446de4",
-        "hash": "425893791",
-        "path": "outstatic/content/projects/flycream-travel.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/flycream-travel.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "flycream-travel",
-      "status": "published",
-      "title": "Flycream Travel"
-    },
-    {
-      "__outstatic": {
         "commit": "c9207c067f87b6fe2599882fe4a91000ffd870ec",
         "hash": "1517319451",
         "path": "outstatic/content/posts/the-wrong-decision.md"
@@ -85,23 +87,6 @@
       "slug": "the-wrong-decision",
       "status": "published",
       "title": "vscode If you want to make the wrong decision, ask everyone"
-    },
-    {
-      "__outstatic": {
-        "commit": "aa1f387e5c66347e675bed0862b070d8946c95f4",
-        "hash": "1055690014",
-        "path": "outstatic/content/projects/couple-pizza.md"
-      },
-      "author": {
-        "name": "Bob Marley"
-      },
-      "collection": "projects",
-      "coverImage": "/images/couple-pizza.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-16T05:35:07.322Z",
-      "slug": "couple-pizza",
-      "status": "published",
-      "title": "Couple Pizza"
     },
     {
       "__outstatic": {
@@ -120,26 +105,6 @@
       "status": "published",
       "tags": "",
       "title": "NNothing is wrong.vscode Everything is perfect"
-    },
-    {
-      "__outstatic": {
-        "commit": "5a68721cdde4e8e15c8306a8a647048488a0308d",
-        "hash": "1778224192",
-        "path": "outstatic/content/posts/desde-vercel.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-07-22T09:24:55.954Z",
-      "slug": "desde-vercel",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "desde vercel"
     }
   ]
 }
