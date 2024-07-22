@@ -1,6 +1,6 @@
 {
-  "commit": "f83c962c9b50eec467a6263ddf2ae6788bc3d784",
-  "generated": "2024-07-22T11:12:53.353Z",
+  "commit": "3cec76993009f87d683063267811924731f64362",
+  "generated": "2024-07-22T11:20:34.766Z",
   "metadata": [
     {
       "__outstatic": {
@@ -360,25 +360,6 @@
     },
     {
       "__outstatic": {
-        "commit": "7e9fe3b5224783b10f9e607dd12687eb4896f364",
-        "hash": "437570327",
-        "path": "outstatic/content/posts/conferencias-de-invierno-2018.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/conf_gabriela-M0MT.jpg",
-      "description": "Lista de participaciones.",
-      "publishedAt": "2024-07-22T09:56:26.573Z",
-      "slug": "conferencias-de-invierno-2018",
-      "status": "published",
-      "tags": "",
-      "title": "Conferencias de invierno 2018."
-    },
-    {
-      "__outstatic": {
         "commit": "3f9554da5287a6166acdab2f231441e399edd514",
         "hash": "943536164",
         "path": "outstatic/content/posts/publicaciones-cientificas.md"
@@ -395,6 +376,25 @@
       "status": "published",
       "tags": "",
       "title": "Publicaciones cientificas"
+    },
+    {
+      "__outstatic": {
+        "commit": "3cec76993009f87d683063267811924731f64362",
+        "hash": "1099240408",
+        "path": "outstatic/content/posts/conferencias-de-invierno-2018.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/conf_gabriela-M0MT.jpg",
+      "description": "Lista de participaciones.",
+      "publishedAt": "2018-08-18T09:56:26.000Z",
+      "slug": "conferencias-de-invierno-2018",
+      "status": "published",
+      "tags": "",
+      "title": "Conferencias de invierno 2018."
     }
   ]
 }

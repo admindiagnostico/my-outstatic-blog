@@ -8,7 +8,7 @@ status: 'published'
 slug: 'conferencias-de-invierno-2018'
 description: 'Lista de participaciones.'
 tags: ''
-publishedAt: '2024-07-22T09:56:26.573Z'
+publishedAt: '2018-08-18T09:56:26.000Z'
 ---
 
 El pasado 18 de agosto se realizó una nueva edición de Conferencias de Invierno que año a año recoge el renovado apoyo de la comunidad de docentes, médicos, técnicos y estudiantes.
