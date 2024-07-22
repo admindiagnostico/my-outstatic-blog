@@ -1,6 +1,6 @@
 {
-  "commit": "eb0ed348f255d43ef0825975a250713f5abe9bbe",
-  "generated": "2024-07-22T11:25:57.945Z",
+  "commit": "bec8003460cd08ef79683e8279910230bc52218b",
+  "generated": "2024-07-22T11:26:24.245Z",
   "metadata": [
     {
       "__outstatic": {
@@ -160,26 +160,6 @@
       "tags": [
       ],
       "title": "Sociedad Latinoamericana de Hematopatología"
-    },
-    {
-      "__outstatic": {
-        "commit": "36574f11576f88e84c7b6cd2c68c4513bef56b13",
-        "hash": "2386752970",
-        "path": "outstatic/content/posts/participacion-en-el-8vo-congreso-uruguayo-de-anatomia-patologica.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/e-poster-n16-gyMj.jpg",
-      "description": "Diagnóstico SRL presenta casos clínicos en el congreso nacional de Anatomía Patológica.",
-      "publishedAt": "2024-07-22T09:49:32.015Z",
-      "slug": "participacion-en-el-8vo-congreso-uruguayo-de-anatomia-patologica",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Participación en el 8vo Congreso Uruguayo de Anatomía Patológica"
     },
     {
       "__outstatic": {
@@ -389,6 +369,25 @@
       "status": "published",
       "tags": "",
       "title": "Incorporamos nuevas determinaciones moleculares"
+    },
+    {
+      "__outstatic": {
+        "commit": "bec8003460cd08ef79683e8279910230bc52218b",
+        "hash": "2486473548",
+        "path": "outstatic/content/posts/participacion-en-el-8vo-congreso-uruguayo-de-anatomia-patologica.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/e-poster-n16-gyMj.jpg",
+      "description": "Diagnóstico SRL presenta casos clínicos en el congreso nacional de Anatomía Patológica.",
+      "publishedAt": "2019-11-26T09:49:32.000Z",
+      "slug": "participacion-en-el-8vo-congreso-uruguayo-de-anatomia-patologica",
+      "status": "published",
+      "tags": "",
+      "title": "Participación en el 8vo Congreso Uruguayo de Anatomía Patológica"
     }
   ]
 }
