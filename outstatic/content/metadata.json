@@ -1,6 +1,6 @@
 {
-  "commit": "6d178cececfe5496314cee993704c8dfcf5d44a8",
-  "generated": "2024-07-22T10:16:04.131Z",
+  "commit": "c72c154a8d231187017724c68d61144e75e03f14",
+  "generated": "2024-07-22T10:17:18.535Z",
   "metadata": [
     {
       "__outstatic": {
@@ -377,6 +377,26 @@
       "tags": [
       ],
       "title": "Certificación de la Calidad UNIT-ISO9001:2015"
+    },
+    {
+      "__outstatic": {
+        "commit": "c72c154a8d231187017724c68d61144e75e03f14",
+        "hash": "3222433635",
+        "path": "outstatic/content/posts/automatizacion-de-ihq-sish-con-benchmark-gx-de-roche.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "Diagnóstico SRL incorpora nueva tecnología para optimizar protocolos de Inmunohistoquímica y técnicas de hibridización in situ.",
+      "publishedAt": "2024-07-22T09:58:11.345Z",
+      "slug": "automatizacion-de-ihq-sish-con-benchmark-gx-de-roche",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Automatización de IHQ & SISH con BenchMark GX de ROCHE"
     }
   ]
 }
