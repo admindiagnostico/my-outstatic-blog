@@ -1,4 +1,4 @@
-import Head from 'next/head'
+import Head from "next/head";
 
 const Meta = () => {
   return (
@@ -31,16 +31,13 @@ const Meta = () => {
       <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
       <meta name="theme-color" content="#000" />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-      <meta
-        name="description"
-        content={`An example blog using Next.js + Outstatic.`}
-      />
+      <meta name="description" content={"Novedades Diagnostico SRL."} />
       <meta
         property="og:image"
         content="https://og-image.vercel.app/Next.js%20Blog%20Starter%20Example.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg"
       />
     </Head>
-  )
-}
+  );
+};
 
-export default Meta
+export default Meta;
