@@ -1,27 +1,7 @@
 {
-  "commit": "6de1ce5c094902ab01a66cadcce14829a9aace1c",
-  "generated": "2024-07-22T11:33:39.835Z",
+  "commit": "0327c219aab3cb6fe894942da87c72f64081ba69",
+  "generated": "2024-07-22T11:34:06.088Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "a3711605a02f747866d5c3b23820e5fa6690523c",
-        "hash": "2479995596",
-        "path": "outstatic/content/posts/uscap-2024.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/uscap2-AxND.jpg",
-      "description": "",
-      "publishedAt": "2024-07-22T09:42:46.823Z",
-      "slug": "uscap-2024",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "USCAP 2024"
-    },
     {
       "__outstatic": {
         "commit": "6d178cececfe5496314cee993704c8dfcf5d44a8",
@@ -382,6 +362,25 @@
       "status": "published",
       "tags": "",
       "title": "USCAP 2020"
+    },
+    {
+      "__outstatic": {
+        "commit": "0327c219aab3cb6fe894942da87c72f64081ba69",
+        "hash": "2325924678",
+        "path": "outstatic/content/posts/uscap-2024.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/uscap2-AxND.jpg",
+      "description": "",
+      "publishedAt": "2024-05-05T09:42:46.000Z",
+      "slug": "uscap-2024",
+      "status": "published",
+      "tags": "",
+      "title": "USCAP 2024"
     }
   ]
 }

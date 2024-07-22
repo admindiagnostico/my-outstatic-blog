@@ -8,7 +8,7 @@ status: 'published'
 slug: 'uscap-2024'
 description: ''
 tags: ''
-publishedAt: '2024-07-22T09:42:46.823Z'
+publishedAt: '2024-05-05T09:42:46.000Z'
 ---
 
 Como parte de las actividades anuales de educación médica continua Diagnóstico SRL a través de sus directoras participó en forma presencial en diferentes actividades del congreso USCAP 2024 que se realizó en Baltimore - USA del 23 al 28 de Marzo de 2024.
