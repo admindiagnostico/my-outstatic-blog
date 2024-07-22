@@ -1,6 +1,6 @@
 {
-  "commit": "40fb4f060dfafa99f875477b7e095c71db268f50",
-  "generated": "2024-07-22T10:13:06.883Z",
+  "commit": "fb8ea30a2872a2aa17c835c9fb5d99400db75d5b",
+  "generated": "2024-07-22T10:14:13.288Z",
   "metadata": [
     {
       "__outstatic": {
@@ -317,6 +317,26 @@
       "tags": [
       ],
       "title": "Distribución de la frecuencia de los distintos tipos de linfomas en Uruguay"
+    },
+    {
+      "__outstatic": {
+        "commit": "fb8ea30a2872a2aa17c835c9fb5d99400db75d5b",
+        "hash": "114893637",
+        "path": "outstatic/content/posts/ii-congreso-latinoamericano-de-hematopatologia-en-bogota.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/foto-congreso-ii-M1ND.jpg",
+      "description": "",
+      "publishedAt": "2024-07-22T09:55:19.914Z",
+      "slug": "ii-congreso-latinoamericano-de-hematopatologia-en-bogota",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "II Congreso Latinoamericano de Hematopatología en Bogotá"
     }
   ]
 }
