@@ -1,6 +1,6 @@
 {
-  "commit": "9c118e9d9bed905a927af5f8754ccfa08d0f083c",
-  "generated": "2024-07-22T10:00:38.391Z",
+  "commit": "a3711605a02f747866d5c3b23820e5fa6690523c",
+  "generated": "2024-07-22T10:01:08.896Z",
   "metadata": [
     {
       "__outstatic": {
@@ -97,6 +97,26 @@
       "tags": [
       ],
       "title": "USCAP 2020"
+    },
+    {
+      "__outstatic": {
+        "commit": "a3711605a02f747866d5c3b23820e5fa6690523c",
+        "hash": "2479995596",
+        "path": "outstatic/content/posts/uscap-2024.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/uscap2-AxND.jpg",
+      "description": "",
+      "publishedAt": "2024-07-22T09:42:46.823Z",
+      "slug": "uscap-2024",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "USCAP 2024"
     }
   ]
 }
