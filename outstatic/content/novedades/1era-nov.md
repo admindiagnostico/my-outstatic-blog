@@ -1,6 +1,6 @@
 ---
 title: '1era nov'
-status: 'draft'
+status: 'published'
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/176062416?v=4'
