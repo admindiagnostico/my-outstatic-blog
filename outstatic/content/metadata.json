@@ -1,6 +1,6 @@
 {
-  "commit": "4f428ec12835914739582136e73d85b6bae7c15d",
-  "generated": "2024-07-22T10:07:17.782Z",
+  "commit": "36574f11576f88e84c7b6cd2c68c4513bef56b13",
+  "generated": "2024-07-22T10:09:49.361Z",
   "metadata": [
     {
       "__outstatic": {
@@ -217,6 +217,26 @@
       "tags": [
       ],
       "title": "Sociedad Latinoamericana de Hematopatología"
+    },
+    {
+      "__outstatic": {
+        "commit": "36574f11576f88e84c7b6cd2c68c4513bef56b13",
+        "hash": "2386752970",
+        "path": "outstatic/content/posts/participacion-en-el-8vo-congreso-uruguayo-de-anatomia-patologica.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/e-poster-n16-gyMj.jpg",
+      "description": "Diagnóstico SRL presenta casos clínicos en el congreso nacional de Anatomía Patológica.",
+      "publishedAt": "2024-07-22T09:49:32.015Z",
+      "slug": "participacion-en-el-8vo-congreso-uruguayo-de-anatomia-patologica",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Participación en el 8vo Congreso Uruguayo de Anatomía Patológica"
     }
   ]
 }
