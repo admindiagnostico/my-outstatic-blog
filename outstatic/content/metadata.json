@@ -1,6 +1,6 @@
 {
   "commit": "748bcde9ca143e80ed129c5858263fd46e6f9134",
-  "generated": "2024-07-22T09:42:24.708Z",
+  "generated": "2024-07-22T09:42:28.295Z",
   "metadata": [
     {
       "__outstatic": {
@@ -53,6 +53,24 @@
     },
     {
       "__outstatic": {
+        "commit": "b22b0f4f3d38a659cbab9b89ac2b7394f2446de4",
+        "hash": "425893791",
+        "path": "outstatic/content/projects/flycream-travel.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/flycream-travel.png",
+      "description": "One more day, one more joy. I feel blessed.",
+      "publishedAt": "2022-09-14T17:55:40.452Z",
+      "slug": "flycream-travel",
+      "status": "published",
+      "title": "Flycream Travel"
+    },
+    {
+      "__outstatic": {
         "commit": "c9207c067f87b6fe2599882fe4a91000ffd870ec",
         "hash": "1517319451",
         "path": "outstatic/content/posts/the-wrong-decision.md"
@@ -84,23 +102,6 @@
       "slug": "bearbnb",
       "status": "published",
       "title": " 🧸 Bearbnb"
-    },
-    {
-      "__outstatic": {
-        "commit": "aa1f387e5c66347e675bed0862b070d8946c95f4",
-        "hash": "1055690014",
-        "path": "outstatic/content/projects/couple-pizza.md"
-      },
-      "author": {
-        "name": "Bob Marley"
-      },
-      "collection": "projects",
-      "coverImage": "/images/couple-pizza.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-16T05:35:07.322Z",
-      "slug": "couple-pizza",
-      "status": "published",
-      "title": "Couple Pizza"
     },
     {
       "__outstatic": {
