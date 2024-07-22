@@ -1,6 +1,6 @@
 {
-  "commit": "d85709798985c7a8aa944673550f6e48ebb6ee60",
-  "generated": "2024-07-22T10:04:35.745Z",
+  "commit": "4a471e6b991fa9539c136d8c52490e22d0f5c03e",
+  "generated": "2024-07-22T10:05:35.007Z",
   "metadata": [
     {
       "__outstatic": {
@@ -157,6 +157,26 @@
       "tags": [
       ],
       "title": "Patología Digital"
+    },
+    {
+      "__outstatic": {
+        "commit": "4a471e6b991fa9539c136d8c52490e22d0f5c03e",
+        "hash": "1301505997",
+        "path": "outstatic/content/posts/participacion-en-programa-de-control-de-calidad.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/cap-certificado825-kzMT.jpg",
+      "description": "Programa control de calidad del Colegio Americano de Patologos.",
+      "publishedAt": "2024-07-22T09:46:56.101Z",
+      "slug": "participacion-en-programa-de-control-de-calidad",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Participación en Programa de Control de Calidad"
     }
   ]
 }
