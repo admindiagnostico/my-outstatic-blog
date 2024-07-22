@@ -1,6 +1,6 @@
 {
-  "commit": "fb8ea30a2872a2aa17c835c9fb5d99400db75d5b",
-  "generated": "2024-07-22T10:14:13.288Z",
+  "commit": "d26f28d6d8caf8e683071c7cafeaf66b95a94d99",
+  "generated": "2024-07-22T10:15:03.197Z",
   "metadata": [
     {
       "__outstatic": {
@@ -337,6 +337,26 @@
       "tags": [
       ],
       "title": "II Congreso Latinoamericano de Hematopatología en Bogotá"
+    },
+    {
+      "__outstatic": {
+        "commit": "d26f28d6d8caf8e683071c7cafeaf66b95a94d99",
+        "hash": "133055176",
+        "path": "outstatic/content/posts/conferencias-de-invierno-2018.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "Lista de participaciones.",
+      "publishedAt": "2024-07-22T09:56:26.573Z",
+      "slug": "conferencias-de-invierno-2018",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Conferencias de invierno 2018."
     }
   ]
 }
