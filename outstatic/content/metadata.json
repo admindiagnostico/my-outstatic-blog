@@ -1,6 +1,6 @@
 {
-  "commit": "d662f151ae1dbf4d18a6e8d55b1cbc1b2c80892f",
-  "generated": "Mon, 22 Jul 2024 09:43:27 GMT",
+  "commit": "050272f60e23c65f3869b93722659b75d26799ab",
+  "generated": "2024-07-22T09:44:20.076Z",
   "metadata": [
     {
       "__outstatic": {
@@ -87,24 +87,6 @@
       "slug": "the-wrong-decision",
       "status": "published",
       "title": "vscode If you want to make the wrong decision, ask everyone"
-    },
-    {
-      "__outstatic": {
-        "commit": "c988a1883c72abea3c59dcd32b86f2ecd169f3e9",
-        "hash": "2150029278",
-        "path": "outstatic/content/posts/nothing-wrong.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
-      "status": "published",
-      "tags": "",
-      "title": "NNothing is wrong.vscode Everything is perfect"
     }
   ]
 }
