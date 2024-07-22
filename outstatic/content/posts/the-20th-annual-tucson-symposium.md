@@ -8,7 +8,7 @@ slug: 'the-20th-annual-tucson-symposium'
 description: ''
 coverImage: '/images/foto-gabriela-huston-edit-20240426170342-YwOD.jpeg'
 tags: ''
-publishedAt: '2024-07-22T09:33:18.588Z'
+publishedAt: '2024-04-26T09:33:18.000Z'
 ---
 
 Participamos en el vigésimo SIMPOSIO ANUAL TUCSON llevado a cabo en Tucson- Arizona, USA, del 23 al 24 de abril de 2024.
