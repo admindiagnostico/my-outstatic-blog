@@ -2,7 +2,7 @@
 author:
   name: ''
   picture: 'https://avatars.githubusercontent.com/u/176062416?v=4'
-coverImage: ''
+coverImage: '/images/conf_gabriela-M0MT.jpg'
 title: 'Conferencias de invierno 2018.'
 status: 'published'
 slug: 'conferencias-de-invierno-2018'

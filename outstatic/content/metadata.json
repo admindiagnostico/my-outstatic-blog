@@ -1,6 +1,6 @@
 {
-  "commit": "e9d70d89613246fc74b4dfd0f89afd14295a1ec2",
-  "generated": "2024-07-22T10:43:02.185Z",
+  "commit": "7e9fe3b5224783b10f9e607dd12687eb4896f364",
+  "generated": "2024-07-22T10:59:01.758Z",
   "metadata": [
     {
       "__outstatic": {
@@ -322,26 +322,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d26f28d6d8caf8e683071c7cafeaf66b95a94d99",
-        "hash": "133055176",
-        "path": "outstatic/content/posts/conferencias-de-invierno-2018.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "Lista de participaciones.",
-      "publishedAt": "2024-07-22T09:56:26.573Z",
-      "slug": "conferencias-de-invierno-2018",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Conferencias de invierno 2018."
-    },
-    {
-      "__outstatic": {
         "commit": "6d178cececfe5496314cee993704c8dfcf5d44a8",
         "hash": "4264948730",
         "path": "outstatic/content/posts/certificacion-de-la-calidad-unit-iso9001-2015.md"
@@ -397,6 +377,25 @@
       "slug": "home",
       "status": "published",
       "title": "Novedades"
+    },
+    {
+      "__outstatic": {
+        "commit": "7e9fe3b5224783b10f9e607dd12687eb4896f364",
+        "hash": "437570327",
+        "path": "outstatic/content/posts/conferencias-de-invierno-2018.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/conf_gabriela-M0MT.jpg",
+      "description": "Lista de participaciones.",
+      "publishedAt": "2024-07-22T09:56:26.573Z",
+      "slug": "conferencias-de-invierno-2018",
+      "status": "published",
+      "tags": "",
+      "title": "Conferencias de invierno 2018."
     }
   ]
 }
