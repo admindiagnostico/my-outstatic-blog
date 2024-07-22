@@ -8,7 +8,7 @@ status: 'published'
 slug: 'incorporamos-nuevas-determinaciones-moleculares'
 description: 'Diagnóstico SRL incorpora el sistema Idylla™ para pruebas moleculares automatizadas y rápidas en oncología.'
 tags: ''
-publishedAt: '2024-07-22T09:52:04.130Z'
+publishedAt: '2023-08-26T09:52:04.000Z'
 ---
 
 La solución Idylla™ que acabamos de incorporar es un sistema revolucionario de pruebas moleculares basado en PCR en tiempo real, es totalmente automatizado, diseñado para ofrecer resultados en un tiempo mínimo y ampliamente probado a nivel mundial.
