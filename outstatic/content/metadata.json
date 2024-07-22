@@ -1,6 +1,6 @@
 {
   "commit": "050272f60e23c65f3869b93722659b75d26799ab",
-  "generated": "2024-07-22T09:44:20.076Z",
+  "generated": "2024-07-22T09:44:23.769Z",
   "metadata": [
     {
       "__outstatic": {
@@ -73,20 +73,21 @@
     },
     {
       "__outstatic": {
-        "commit": "c9207c067f87b6fe2599882fe4a91000ffd870ec",
-        "hash": "1517319451",
-        "path": "outstatic/content/posts/the-wrong-decision.md"
+        "commit": "c988a1883c72abea3c59dcd32b86f2ecd169f3e9",
+        "hash": "2150029278",
+        "path": "outstatic/content/posts/nothing-wrong.md"
       },
       "author": {
-        "name": "Naval Ravikant"
+        "name": "Andre Vitorio"
       },
       "collection": "posts",
-      "coverImage": "/images/skyline.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-26T05:35:07.322Z",
-      "slug": "the-wrong-decision",
+      "coverImage": "/images/industrial-pattern.png",
+      "description": "One more day, one more joy. I feel blessed.",
+      "publishedAt": "2022-09-14T17:55:40.452Z",
+      "slug": "nothing-wrong",
       "status": "published",
-      "title": "vscode If you want to make the wrong decision, ask everyone"
+      "tags": "",
+      "title": "NNothing is wrong.vscode Everything is perfect"
     }
   ]
 }
