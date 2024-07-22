@@ -8,7 +8,7 @@ slug: 'exito-en-el-tratamiento-del-cancer-de-piel-con-la-tecnica-de-mohs'
 description: 'El Hospital Británico logra una tasa de curación del 99% en el tratamiento de cáncer de piel utilizando la técnica de Mohs.'
 coverImage: ''
 tags: ''
-publishedAt: '2024-07-22T09:31:52.605Z'
+publishedAt: '2019-10-29T09:31:52.000Z'
 ---
 
 El departamento de Cirugía Plástica del Hospital Británico obtuvo un porcentaje de curación del 99% desde que implementó el tratamiento de algunos tipos de cáncer de piel con la técnica de Mohs, a tono con los principales centros médicos de referencia.

@@ -1,6 +1,6 @@
 {
-  "commit": "c4ab723d7821c20d056f159fa1342289a8a3d691",
-  "generated": "2024-07-22T11:21:19.271Z",
+  "commit": "4715bb40eded013f8548fa1308efee52875eae02",
+  "generated": "2024-07-22T11:22:05.895Z",
   "metadata": [
     {
       "__outstatic": {
@@ -20,25 +20,6 @@
       "status": "published",
       "tags": "",
       "title": "The 20th annual Tucson Symposium"
-    },
-    {
-      "__outstatic": {
-        "commit": "5bffbf5eaeeb7c81951b79d0fd27dc9d24e8df04",
-        "hash": "2783003609",
-        "path": "outstatic/content/posts/exito-en-el-tratamiento-del-cancer-de-piel-con-la-tecnica-de-mohs.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "El Hospital Británico logra una tasa de curación del 99% en el tratamiento de cáncer de piel utilizando la técnica de Mohs.",
-      "publishedAt": "2024-07-22T09:31:52.605Z",
-      "slug": "exito-en-el-tratamiento-del-cancer-de-piel-con-la-tecnica-de-mohs",
-      "status": "published",
-      "tags": "",
-      "title": "Éxito en el tratamiento del cáncer de piel con la técnica de Mohs"
     },
     {
       "__outstatic": {
@@ -394,6 +375,25 @@
       "status": "published",
       "tags": "",
       "title": "Distribución de la frecuencia de los distintos tipos de linfomas en Uruguay"
+    },
+    {
+      "__outstatic": {
+        "commit": "4715bb40eded013f8548fa1308efee52875eae02",
+        "hash": "2429494795",
+        "path": "outstatic/content/posts/exito-en-el-tratamiento-del-cancer-de-piel-con-la-tecnica-de-mohs.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "El Hospital Británico logra una tasa de curación del 99% en el tratamiento de cáncer de piel utilizando la técnica de Mohs.",
+      "publishedAt": "2019-10-29T09:31:52.000Z",
+      "slug": "exito-en-el-tratamiento-del-cancer-de-piel-con-la-tecnica-de-mohs",
+      "status": "published",
+      "tags": "",
+      "title": "Éxito en el tratamiento del cáncer de piel con la técnica de Mohs"
     }
   ]
 }
