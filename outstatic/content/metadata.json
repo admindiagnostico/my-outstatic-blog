@@ -1,6 +1,6 @@
 {
-  "commit": "bec8003460cd08ef79683e8279910230bc52218b",
-  "generated": "2024-07-22T11:26:24.245Z",
+  "commit": "fcdb60e840c53e2bf3ede4248a16c1293618e4ab",
+  "generated": "2024-07-22T11:27:15.756Z",
   "metadata": [
     {
       "__outstatic": {
@@ -140,26 +140,6 @@
       "tags": [
       ],
       "title": "Participación en eventos científicos"
-    },
-    {
-      "__outstatic": {
-        "commit": "4f428ec12835914739582136e73d85b6bae7c15d",
-        "hash": "1954765936",
-        "path": "outstatic/content/posts/sociedad-latinoamericana-de-hematopatologia.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "Participación de Diagnóstico SRL en el congreso de la SOLAHP, presentando un caso clínico de sarcoma de células dendríticas en bazo.",
-      "publishedAt": "2024-07-22T09:48:57.129Z",
-      "slug": "sociedad-latinoamericana-de-hematopatologia",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Sociedad Latinoamericana de Hematopatología"
     },
     {
       "__outstatic": {
@@ -388,6 +368,25 @@
       "status": "published",
       "tags": "",
       "title": "Participación en el 8vo Congreso Uruguayo de Anatomía Patológica"
+    },
+    {
+      "__outstatic": {
+        "commit": "fcdb60e840c53e2bf3ede4248a16c1293618e4ab",
+        "hash": "3188251217",
+        "path": "outstatic/content/posts/sociedad-latinoamericana-de-hematopatologia.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "Participación de Diagnóstico SRL en el congreso de la SOLAHP, presentando un caso clínico de sarcoma de células dendríticas en bazo.",
+      "publishedAt": "2024-10-15T09:48:57.000Z",
+      "slug": "sociedad-latinoamericana-de-hematopatologia",
+      "status": "published",
+      "tags": "",
+      "title": "Sociedad Latinoamericana de Hematopatología"
     }
   ]
 }

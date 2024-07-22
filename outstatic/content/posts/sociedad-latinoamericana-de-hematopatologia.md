@@ -8,7 +8,7 @@ status: 'published'
 slug: 'sociedad-latinoamericana-de-hematopatologia'
 description: 'Participación de Diagnóstico SRL en el congreso de la SOLAHP, presentando un caso clínico de sarcoma de células dendríticas en bazo.'
 tags: ''
-publishedAt: '2024-07-22T09:48:57.129Z'
+publishedAt: '2024-10-15T09:48:57.000Z'
 ---
 
 Participamos en el congreso de la sociedad latinoamaricana de hematopatología exponiendo un caso clínico de estudio (Sarcoma de células dendríticas en bazo). La exposición estuvo a cargo de la Dra. Gabriela Gualco, miembro de la SOLAHP y directora en Diagnóstico SRL.
