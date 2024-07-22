@@ -1,27 +1,7 @@
 {
-  "commit": "a84c05287d86e7056f17ce8c00bc49cde3a044c2",
-  "generated": "2024-07-22T11:32:52.859Z",
+  "commit": "bd0b6b1e383a15ec61e83c1c389055fcbe4a7537",
+  "generated": "2024-07-22T11:33:19.186Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "6d778f0c9ab7dd32d648720ab62c935cf289e3e1",
-        "hash": "1917993072",
-        "path": "outstatic/content/posts/uropatologia.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/urologica-edit-20230822184851-kxOT.jpeg",
-      "description": "Diagnóstico SRL participa en el curso de Patología Urológica del Colegio Mexicano de Patólogos.",
-      "publishedAt": "2024-07-22T09:39:46.657Z",
-      "slug": "uropatologia",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Uropatología"
-    },
     {
       "__outstatic": {
         "commit": "9c118e9d9bed905a927af5f8754ccfa08d0f083c",
@@ -384,6 +364,25 @@
       "status": "published",
       "tags": "",
       "title": "The 20th annual Tucson Symposium"
+    },
+    {
+      "__outstatic": {
+        "commit": "bd0b6b1e383a15ec61e83c1c389055fcbe4a7537",
+        "hash": "1808187864",
+        "path": "outstatic/content/posts/uropatologia.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/urologica-edit-20230822184851-kxOT.jpeg",
+      "description": "Diagnóstico SRL participa en el curso de Patología Urológica del Colegio Mexicano de Patólogos.",
+      "publishedAt": "2023-08-22T09:39:46.000Z",
+      "slug": "uropatologia",
+      "status": "published",
+      "tags": "",
+      "title": "Uropatología"
     }
   ]
 }

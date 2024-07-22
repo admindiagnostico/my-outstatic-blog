@@ -8,7 +8,7 @@ status: 'published'
 slug: 'uropatologia'
 description: 'Diagnóstico SRL participa en el curso de Patología Urológica del Colegio Mexicano de Patólogos.'
 tags: ''
-publishedAt: '2024-07-22T09:39:46.657Z'
+publishedAt: '2023-08-22T09:39:46.000Z'
 ---
 
 Participamos en el curso de Patológia Urológica del Colegio Mexicano de Patólogos
