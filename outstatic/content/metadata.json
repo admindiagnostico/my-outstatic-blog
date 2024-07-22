@@ -1,6 +1,6 @@
 {
-  "commit": "aa852226f2583abd20ea10a63c1e16492591bd4e",
-  "generated": "2024-07-22T11:23:13.197Z",
+  "commit": "c8af95c9a8b2a34238acd372c1adf50c30f9e6e3",
+  "generated": "2024-07-22T11:24:12.871Z",
   "metadata": [
     {
       "__outstatic": {
@@ -243,26 +243,6 @@
     },
     {
       "__outstatic": {
-        "commit": "fb8ea30a2872a2aa17c835c9fb5d99400db75d5b",
-        "hash": "114893637",
-        "path": "outstatic/content/posts/ii-congreso-latinoamericano-de-hematopatologia-en-bogota.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/foto-congreso-ii-M1ND.jpg",
-      "description": "",
-      "publishedAt": "2024-07-22T09:55:19.914Z",
-      "slug": "ii-congreso-latinoamericano-de-hematopatologia-en-bogota",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "II Congreso Latinoamericano de Hematopatología en Bogotá"
-    },
-    {
-      "__outstatic": {
         "commit": "6d178cececfe5496314cee993704c8dfcf5d44a8",
         "hash": "4264948730",
         "path": "outstatic/content/posts/certificacion-de-la-calidad-unit-iso9001-2015.md"
@@ -393,6 +373,25 @@
       "status": "published",
       "tags": "",
       "title": "Automatización de IHQ & SISH con BenchMark GX de ROCHE"
+    },
+    {
+      "__outstatic": {
+        "commit": "c8af95c9a8b2a34238acd372c1adf50c30f9e6e3",
+        "hash": "334011891",
+        "path": "outstatic/content/posts/ii-congreso-latinoamericano-de-hematopatologia-en-bogota.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/foto-congreso-ii-M1ND.jpg",
+      "description": "",
+      "publishedAt": "2019-05-29T09:55:19.000Z",
+      "slug": "ii-congreso-latinoamericano-de-hematopatologia-en-bogota",
+      "status": "published",
+      "tags": "",
+      "title": "II Congreso Latinoamericano de Hematopatología en Bogotá"
     }
   ]
 }
