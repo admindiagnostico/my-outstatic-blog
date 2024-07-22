@@ -1,6 +1,6 @@
 {
   "commit": "b1626aa98391100e2c63a787089b3ca9f733c8a1",
-  "generated": "2024-07-22T11:28:28.177Z",
+  "generated": "2024-07-22T11:31:44.061Z",
   "metadata": [
     {
       "__outstatic": {
@@ -369,7 +369,7 @@
     {
       "__outstatic": {
         "commit": "b1626aa98391100e2c63a787089b3ca9f733c8a1",
-        "hash": "3692751890",
+        "hash": "1505836331",
         "path": "outstatic/content/posts/patologia-digital.md"
       },
       "author": {
@@ -379,7 +379,7 @@
       "collection": "posts",
       "coverImage": "/images/motic-UwNz.jpeg",
       "description": "Diagnóstico SRL implementa scanner digital de 60 láminas, único en Uruguay, avanzando hacia diagnósticos asistidos por IA.",
-      "publishedAt": "2023-01-12T09:46:07.000Z",
+      "publishedAt": "2021-04-28T09:46:07.000Z",
       "slug": "patologia-digital",
       "status": "published",
       "tags": "",
