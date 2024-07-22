@@ -1,6 +1,6 @@
 {
-  "commit": "249b6eaaa3eeb8f4536c5190ce01c7ebe883eb83",
-  "generated": "Mon, 22 Jul 2024 09:56:37 GMT",
+  "commit": "6d778f0c9ab7dd32d648720ab62c935cf289e3e1",
+  "generated": "2024-07-22T09:59:25.581Z",
   "metadata": [
     {
       "__outstatic": {
@@ -57,6 +57,26 @@
       "slug": "home",
       "status": "published",
       "title": "Novedades"
+    },
+    {
+      "__outstatic": {
+        "commit": "6d778f0c9ab7dd32d648720ab62c935cf289e3e1",
+        "hash": "1917993072",
+        "path": "outstatic/content/posts/uropatologia.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/urologica-edit-20230822184851-kxOT.jpeg",
+      "description": "Diagnóstico SRL participa en el curso de Patología Urológica del Colegio Mexicano de Patólogos.",
+      "publishedAt": "2024-07-22T09:39:46.657Z",
+      "slug": "uropatologia",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Uropatología"
     }
   ]
 }
