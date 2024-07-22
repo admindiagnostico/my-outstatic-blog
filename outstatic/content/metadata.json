@@ -1,6 +1,6 @@
 {
-  "commit": "c8af95c9a8b2a34238acd372c1adf50c30f9e6e3",
-  "generated": "2024-07-22T11:24:12.871Z",
+  "commit": "d595858843dbb35c5eeb475b3777b40557023373",
+  "generated": "2024-07-22T11:24:53.364Z",
   "metadata": [
     {
       "__outstatic": {
@@ -223,26 +223,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d409e0e79aa6c31de0f2506d0d38c0ebe31f1da5",
-        "hash": "72585225",
-        "path": "outstatic/content/posts/jornadas-de-actualizacion-en-cancer-de-mama-centro-medico-de-salto.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/foto-congreso-edit-20230829224824-IxNT.jpeg",
-      "description": "",
-      "publishedAt": "2024-07-22T09:53:24.385Z",
-      "slug": "jornadas-de-actualizacion-en-cancer-de-mama-centro-medico-de-salto",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Jornadas de actualización en cáncer de mama - Centro Médico de Salto"
-    },
-    {
-      "__outstatic": {
         "commit": "6d178cececfe5496314cee993704c8dfcf5d44a8",
         "hash": "4264948730",
         "path": "outstatic/content/posts/certificacion-de-la-calidad-unit-iso9001-2015.md"
@@ -392,6 +372,25 @@
       "status": "published",
       "tags": "",
       "title": "II Congreso Latinoamericano de Hematopatología en Bogotá"
+    },
+    {
+      "__outstatic": {
+        "commit": "d595858843dbb35c5eeb475b3777b40557023373",
+        "hash": "1765882131",
+        "path": "outstatic/content/posts/jornadas-de-actualizacion-en-cancer-de-mama-centro-medico-de-salto.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/foto-congreso-edit-20230829224824-IxNT.jpeg",
+      "description": "",
+      "publishedAt": "2023-08-29T09:53:24.000Z",
+      "slug": "jornadas-de-actualizacion-en-cancer-de-mama-centro-medico-de-salto",
+      "status": "published",
+      "tags": "",
+      "title": "Jornadas de actualización en cáncer de mama - Centro Médico de Salto"
     }
   ]
 }
