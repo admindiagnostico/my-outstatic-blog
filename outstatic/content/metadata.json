@@ -1,6 +1,6 @@
 {
-  "commit": "6d778f0c9ab7dd32d648720ab62c935cf289e3e1",
-  "generated": "2024-07-22T09:59:25.581Z",
+  "commit": "9c118e9d9bed905a927af5f8754ccfa08d0f083c",
+  "generated": "2024-07-22T10:00:38.391Z",
   "metadata": [
     {
       "__outstatic": {
@@ -77,6 +77,26 @@
       "tags": [
       ],
       "title": "Uropatología"
+    },
+    {
+      "__outstatic": {
+        "commit": "9c118e9d9bed905a927af5f8754ccfa08d0f083c",
+        "hash": "836469718",
+        "path": "outstatic/content/posts/uscap-2020.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/logo-us-cap-2020-I1Nj.jpg",
+      "description": "Participación de Diagnóstico SRL en el congreso USCAP 2020 en Los Ángeles, California.",
+      "publishedAt": "2024-07-22T09:41:53.975Z",
+      "slug": "uscap-2020",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "USCAP 2020"
     }
   ]
 }
