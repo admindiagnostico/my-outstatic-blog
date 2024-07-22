@@ -1,26 +1,7 @@
 {
   "commit": "249b6eaaa3eeb8f4536c5190ce01c7ebe883eb83",
-  "generated": "Mon, 22 Jul 2024 09:56:32 GMT",
+  "generated": "Mon, 22 Jul 2024 09:56:37 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "5bffbf5eaeeb7c81951b79d0fd27dc9d24e8df04",
-        "hash": "2783003609",
-        "path": "outstatic/content/posts/exito-en-el-tratamiento-del-cancer-de-piel-con-la-tecnica-de-mohs.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "El Hospital Británico logra una tasa de curación del 99% en el tratamiento de cáncer de piel utilizando la técnica de Mohs.",
-      "publishedAt": "2024-07-22T09:31:52.605Z",
-      "slug": "exito-en-el-tratamiento-del-cancer-de-piel-con-la-tecnica-de-mohs",
-      "status": "published",
-      "tags": "",
-      "title": "Éxito en el tratamiento del cáncer de piel con la técnica de Mohs"
-    },
     {
       "__outstatic": {
         "commit": "c4bb76aae79ab3fcb9260f63d4b445378b7ab894",
@@ -39,6 +20,25 @@
       "status": "published",
       "tags": "",
       "title": "The 20th annual Tucson Symposium"
+    },
+    {
+      "__outstatic": {
+        "commit": "5bffbf5eaeeb7c81951b79d0fd27dc9d24e8df04",
+        "hash": "2783003609",
+        "path": "outstatic/content/posts/exito-en-el-tratamiento-del-cancer-de-piel-con-la-tecnica-de-mohs.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/176062416?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "El Hospital Británico logra una tasa de curación del 99% en el tratamiento de cáncer de piel utilizando la técnica de Mohs.",
+      "publishedAt": "2024-07-22T09:31:52.605Z",
+      "slug": "exito-en-el-tratamiento-del-cancer-de-piel-con-la-tecnica-de-mohs",
+      "status": "published",
+      "tags": "",
+      "title": "Éxito en el tratamiento del cáncer de piel con la técnica de Mohs"
     },
     {
       "__outstatic": {
