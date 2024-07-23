@@ -1,6 +1,6 @@
 {
-  "commit": "0327c219aab3cb6fe894942da87c72f64081ba69",
-  "generated": "2024-07-22T11:34:06.088Z",
+  "commit": "de6fa6a5acd2ec8ebb1d3b4af4b33268601b6402",
+  "generated": "2024-07-23T21:20:51.701Z",
   "metadata": [
     {
       "__outstatic": {
@@ -21,24 +21,6 @@
       "tags": [
       ],
       "title": "Certificación de la Calidad UNIT-ISO9001:2015"
-    },
-    {
-      "__outstatic": {
-        "commit": "459471f7e30ba818806a5a3c548d6b53f226bf27",
-        "hash": "2950334495",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Diagnostico SRL",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Novedades Diagnostico SRL",
-      "publishedAt": "2022-07-22T05:35:07.000Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Novedades"
     },
     {
       "__outstatic": {
@@ -381,6 +363,24 @@
       "status": "published",
       "tags": "",
       "title": "USCAP 2024"
+    },
+    {
+      "__outstatic": {
+        "commit": "de6fa6a5acd2ec8ebb1d3b4af4b33268601b6402",
+        "hash": "3273024896",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Diagnostico SRL",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Novedades Diagnostico SRL",
+      "publishedAt": "2024-07-22T05:35:07.000Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Novedades"
     }
   ]
 }

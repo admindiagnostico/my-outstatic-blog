@@ -7,7 +7,6 @@ author:
 slug: 'home'
 description: 'Novedades Diagnostico SRL'
 coverImage: ''
-publishedAt: '2022-07-22T05:35:07.000Z'
+publishedAt: '2024-07-22T05:35:07.000Z'
 ---
 
- 
